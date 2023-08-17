@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MEAN**
 
-- 💬 Ask me about **ANGULAR ,MEAN ,JS**
+- 💬 Ask me about **ANGULAR ,MEAN ,JS ,PYTHON**
 
 - 📫 How to reach me **govindalapudisrinath@gmail.com**
 
