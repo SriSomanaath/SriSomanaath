@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Docker & Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://srisomanaath.github.io/SriSomanaath-portfolio/](https://srisomanaath.github.io/SriSomanaath-portfolio/)
+- 👨‍💻 All of my projects are available at [
+https://srisomanaathg.netlify.app/](
+https://srisomanaathg.netlify.app/)
 
 - 💬 Ask me about **Angular, Javascript, Node.js**
 
