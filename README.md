@@ -1,4 +1,4 @@
-[![Header]([https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png](https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif))](https://srisomanaathdev.vercel.app)
+[![Header](https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif)](https://srisomanaathdev.vercel.app)
 
 <h1 align="center">Hi 👋, I'm Sri Somanaath</h1>
 <h3 align="center">AI SDE · Full-Stack Engineer · Bengaluru, India</h3>
